@@ -2,9 +2,9 @@
 layout: post
 title: So you want to apply to grad school?
 ---
-Below is all of my advice for applications. I tried to include enough detail so that if you have no idea where to start in the process, this page will walk you through it. 
+Below is all of my advice for applications. I tried to include enough detail so that if you have no idea where to start in the process, this page will walk you through it. I begin with a checklist of everything you have to do to get the applications done, and then I go into detailed advice for each item.
 
-> *Because application conventions and expectations differ between grad programs, my advice is most applicable to people applying to PhD programs in Physics at universities in the US. However, my impression is that the advice translates perfectly fine to any science or engineering (US) PhD program. I begin with a checklist of everything you have to do to get the applications done, and then I go into detailed advice for each item.*
+> *Because application conventions and expectations differ between grad programs, my advice is most applicable to people applying to PhD programs in Physics at universities in the US. However, my impression is that the advice translates perfectly fine to any science or engineering (US) PhD program.*
 <!-- *Context in which to interpret my advice: I applied for physics programs to study theoretical quantum science. I applied to 10 US universities for the Fall of 2024 and was accepted to 4.*-->
 
 ## Checklist (Semi-chronological):
@@ -27,15 +27,15 @@ If you've already applied to undergrad, you're probably familiar with the concep
 
 ### Letter request email template:
 > *Subject: Letter of Rec*
-
-*Hello Professor ________,*
-
-*I hope this email finds you well. I am planning to apply to [Physics] PhD programs for the Fall 202[7] semester, and I was wondering if you would be willing to write me a letter of recommendation in support of my applications. The earliest deadlines are [in the beginning of December]. Please let me know if you would like to meet with me to discuss in more detail, or if you need anything else from me at this time. If you are able to be my recommender, then I will send you my finalized list of schools (and deadlines) as well as my other application materials when I have them.*
-
-*Looking forward to hearing from you.*
-
-
-*Sincerely,*
+> 
+> *Hello Professor ________,*
+> 
+> *I hope this email finds you well. I am planning to apply to [Physics] PhD programs for the Fall 202[7] semester, and I was wondering if you would be willing to write me a letter of recommendation in support of my applications. The earliest deadlines are [in the beginning of December]. Please let me know if you would like to meet with me to discuss in more detail, or if you need anything else from me at this time. If you are able to be my recommender, then I will send you my finalized list of schools (and deadlines) as well as my other application materials when I have them.*
+> 
+> *Looking forward to hearing from you.*
+> 
+> 
+> *Sincerely,*
 
 
 ### How to choose a recommender?
@@ -54,20 +54,20 @@ Many people have different criteria for narrowing down their list, but I went of
 This is one of my biggest pieces of advice: either while you're working on applications or right after you submit them, reach out to the professors you’re interested in working with and ask to meet with them. Take this opportunity to ask them about their research and any other questions you have about the school/program/their group so they know who you are when it’s time to review applications (and so that you have more data for when it comes time to make your own decision!). There’s no harm in doing this. They might not respond or have time to meet with you, but that’s okay. I think a good time to do this would be around November. Below is a template for how to write this email.
 
 ### Reaching out to prospective advisors email template:
-*Subject: Prospective PhD Student Inquiry*
-
-*Dear Dr. ______,*
-
-*My name is ________ and I am a senior physics major at [Princeton University]. I will be graduating in Spring 202[7], and I will be applying to the Physics PhD program at [CU Boulder] for the Fall 202[7] semester.*
-
-*I am reaching out because I am interested in your research on ________. [...talk about your research experience...]*
-
-*I am interested in studying ___________ in graduate school. Will there be any openings in your lab for a graduate student starting in Fall 202[7]? The ________ Lab aligns with my interests and I would love to set up a time to discuss joining your lab if you think it could be a good fit.*
-
-*I've attached my CV and would be happy to answer any questions you may have about my experience. I look forward to hearing from you.*
-
-
-*Sincerely,*
+> *Subject: Prospective PhD Student Inquiry*
+> 
+> *Dear Dr. ______,*
+> 
+> *My name is ________ and I am a senior physics major at [Princeton University]. I will be graduating in Spring 202[7], and I will be applying to the Physics PhD program at [CU Boulder] for the Fall 202[7] semester.*
+> 
+> *I am reaching out because I am interested in your research on ________. [...talk about your research experience...]*
+> 
+> *I am interested in studying ___________ in graduate school. Will there be any openings in your lab for a graduate student starting in Fall 202[7]? The ________ Lab aligns with my interests and I would love to set up a time to discuss joining your lab if you think it could be a good fit.*
+> 
+> *I've attached my CV and would be happy to answer any questions you may have about my experience. I look forward to hearing from you.*
+> 
+> 
+> *Sincerely,*
 
 ## 4. Statement of Purpose (SOP)
 ### What is it? 
