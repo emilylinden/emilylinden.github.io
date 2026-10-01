@@ -28,7 +28,7 @@ If you've already applied to undergrad, you're probably familiar with the concep
 ### Letter request email template:
 > *Subject: Letter of Rec*
 > 
-> *Hello Professor ________,*
+> *Hello Professor ______,*
 > 
 > *I hope this email finds you well. I am planning to apply to [Physics] PhD programs for the Fall 202[7] semester, and I was wondering if you would be willing to write me a letter of recommendation in support of my applications. The earliest deadlines are [in the beginning of December]. Please let me know if you would like to meet with me to discuss in more detail, or if you need anything else from me at this time. If you are able to be my recommender, then I will send you my finalized list of schools (and deadlines) as well as my other application materials when I have them.*
 > 
@@ -58,11 +58,11 @@ This is one of my biggest pieces of advice: either while you're working on appli
 > 
 > *Dear Dr. ______,*
 > 
-> *My name is ________ and I am a senior physics major at [Princeton University]. I will be graduating in Spring 202[7], and I will be applying to the Physics PhD program at [CU Boulder] for the Fall 202[7] semester.*
+> *My name is ______ and I am a senior physics major at [Princeton University]. I will be graduating in Spring 202[7], and I will be applying to the Physics PhD program at [CU Boulder] for the Fall 202[7] semester.*
 > 
-> *I am reaching out because I am interested in your research on ________. [...talk about your research experience...]*
+> *I am reaching out because I am interested in your research on ______. [...talk about your research experience...]*
 > 
-> *I am interested in studying ___________ in graduate school. Will there be any openings in your lab for a graduate student starting in Fall 202[7]? The ________ Lab aligns with my interests and I would love to set up a time to discuss joining your lab if you think it could be a good fit.*
+> *I am interested in studying ______ in graduate school. Will there be any openings in your lab for a graduate student starting in Fall 202[7]? The ______ Lab aligns with my interests and I would love to set up a time to discuss joining your lab if you think it could be a good fit.*
 > 
 > *I've attached my CV and would be happy to answer any questions you may have about my experience. I look forward to hearing from you.*
 > 
