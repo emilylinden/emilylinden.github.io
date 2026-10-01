@@ -71,7 +71,7 @@ This is one of my biggest pieces of advice: either while you're working on appli
 ### What is it? 
 An SOP is a 1-2 page written document that answers the question, “Why are you applying to this program?” There is a lot of stuff packed in that “why”: why do you want to go to grad school? Why do you want to study X? (What do you want to study?) Why do you want to go to *this* school and *this* program? And, equally important, why should they choose you?
 
-It's not just a place to throw everything you want them to know about you. It should be a focused essay with a thesis statement and a consistent narrative. It should not have any personal mushy stuff in it (you can save that for the personal essays). It should be about science. You can and should still show passion and authenticity, but otherwise it should be technical and professional. The audience for your SOP is professors that work in the field you're applying for.
+It's not just a place to throw everything you want them to know about you. It should be a focused essay with a thesis statement and a consistent narrative. It should not have any personal mushy stuff in it (you can save that for the personal essays). It should be about science. You can and should still show passion and authenticity, but it should be technical and professional. The audience for your SOP is professors that work in the field you're applying for. Your end goal is to convince them your experiences have given you clarity, confidence, commitment, and enthusiasm in you desire to go to graduate school.
 
 ### Lots of advice here:
 * Somewhere near the beginning, you need to have a ‘thesis statement’ that says exactly what you want to study/work on in grad school. It should be very clear and explicit.
@@ -82,7 +82,7 @@ It's not just a place to throw everything you want them to know about you. It sh
 * Don’t brush off the question, “Why do you want to go to grad school?” Let them know that you understand the unique challenge of grad school and that you’re committed to it for xyz reasons.
 * Also don’t forget to answer the question “Why this school and program?”. Can just be 1 maybe 2 sentences, but make them think that they're your #1 choice of school by putting specifics about the placement of the school, the connections the school has to other institutions, the diversity of the school, the format of the program, the initiatives the department has, etc. 
 * If you have any experience with teaching/tutoring, public outreach, volunteering, supporting underrepresented groups, etc, let them know. If you’re highlighting it more in a different essay you can keep it brief. It’s very good in academia to be interested in this stuff.
-* All grad schools require the SOP and are expecting this same thing, so you can keep it very similar between schools and just tailor between schools
+* All grad schools require the SOP and are expecting this same thing, so you can keep it very similar between schools and just tailor between schools.
 
 ## 5. Other application materials
 Your other main application materials are your CV, personal essays, and transcript. I don't have much advice here, but:
