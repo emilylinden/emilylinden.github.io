@@ -4,7 +4,7 @@ title: So you want to apply to grad school?
 ---
 Below is all of my advice for applications. I tried to include enough detail so that if you have no idea where to start in the process, this page will walk you through it. 
 
-*Because application conventions and expectations differ between grad programs, my advice is most applicable to people applying to PhD programs in Physics at universities in the US. However, my impression is that the advice translates perfectly fine to any science or engineering (US) PhD program. I begin with a checklist of everything you have to do to get the applications done, and then I go into detailed advice for each item.*
+> *Because application conventions and expectations differ between grad programs, my advice is most applicable to people applying to PhD programs in Physics at universities in the US. However, my impression is that the advice translates perfectly fine to any science or engineering (US) PhD program. I begin with a checklist of everything you have to do to get the applications done, and then I go into detailed advice for each item.*
 <!-- *Context in which to interpret my advice: I applied for physics programs to study theoretical quantum science. I applied to 10 US universities for the Fall of 2024 and was accepted to 4.*-->
 
 ## Checklist (Semi-chronological):
@@ -26,7 +26,7 @@ If you've already applied to undergrad, you're probably familiar with the concep
 * Reminders: Just because they agree to write you a letter doesn't mean they will remember about it a month or two later—it's up to you to make sure they get it in. Tip: sending your application materials (list of schools, SOP, CV) can serve as a reminder that is not awkward or pushy! It's your discretion how many reminders you send, but I would recommend sending one ~3 weeks out from the deadline, and one within a week of the deadline. You can monitor when they submit their LOR through the application portals, and send one more reminder day-of or day before if they still haven't submitted.
 
 ### Letter request email template:
-*Subject: Letter of Rec*
+> *Subject: Letter of Rec*
 
 *Hello Professor ________,*
 
