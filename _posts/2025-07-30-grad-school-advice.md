@@ -38,9 +38,6 @@ If you've already applied to undergrad, you're probably familiar with the concep
 > *Sincerely,*
 
 
-### How to choose a recommender?
-
-
 ## 2. List of Schools
 Figuring out your list of schools that you want to apply to is a nontrivial step, and I for one had no idea where to start. You want to aim to have a list of anywhere from 8 to 12 schools (some people go up to 20). I applied to 10. 
 
