@@ -57,7 +57,7 @@ This is one of my biggest pieces of advice: either while you're working on appli
 > 
 > *My name is ______ and I am a senior physics major at Princeton University. I will be graduating in Spring 2027, and I will be applying to the Physics PhD program at CU Boulder for the Fall 2027 semester.*
 > 
-> *I am reaching out because I am interested in your research on ______. [...talk about your research interests or experience...]*
+> *I am reaching out because I am interested in your work on [using nonlinear multimode bosonic systems to advance quantum sensing]. I have research experience in [...talk about your research/work experience, or sell yourself in other ways...]*
 > 
 > *I am interested in studying ______ in graduate school. Will there be any openings in your lab for a graduate student starting in Fall 2027? The ______ Lab aligns with my interests and I would love to set up a time to discuss joining your lab if you think it could be a good fit.*
 > 
