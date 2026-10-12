@@ -50,7 +50,7 @@ Many people have different criteria for narrowing down their list, but I went of
 ## 3. Reaching out to potential advisors
 This is one of my biggest pieces of advice: either while you're working on applications or right after you submit them (ie. in November or December, for December application deadlines), reach out to the professors you’re interested in working with and ask to meet with them. Take this opportunity to ask them about their research and any other questions you have about the school/program/their group. The real goal of this is that they know your name when it’s time to review applications, but it also gives you more data for when it comes time to make your own decision! They might not respond or have time to meet with you, but that’s okay--there's no harm in trying. Below is an example/template for how to write this email.
 
-### Reaching out to prospective advisors email template:
+### Reaching out to prospective advisors email example (much more personalization required):
 > *Subject: Prospective PhD Student Inquiry*
 > 
 > *Dear Professor ______,*
