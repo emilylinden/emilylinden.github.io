@@ -8,7 +8,7 @@ Below is all of my advice for applications. I tried to include enough detail so 
 <!-- *Context in which to interpret my advice: I applied for physics programs to study theoretical quantum science. I applied to 10 US universities for the Fall of 2024 and was accepted to 4.*-->
 
 ## Checklist (Semi-chronological):
-1. Ask 3-4 professors to be your letter of recommendation writers **at least 1/1.5 months in advance**.
+1. Ask 3-4 professors to be your letter of recommendation writers **at least 1/1.5 months before your first application deadline**.
 2. Make a list of grad schools you want to apply to, and check fee waivers.
 3. (Optional) Reach out to professors at your prospective schools.
 4. Write your Statement of Purpose (SOP)
